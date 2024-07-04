@@ -14,9 +14,9 @@ Simple Todo App is a basic task management app built using Flutter. It allows us
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Add Task](screenshots/add_task.png)
-![Completed Tasks](screenshots/completed_tasks.png)
+![Home Screen](screenshots/home.png)
+![Add Task](screenshots/addTask.png)
+![List of Tasks](screenshots/listOfTasks.png)
 
 ## Getting Started
 
